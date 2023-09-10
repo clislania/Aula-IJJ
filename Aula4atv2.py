@@ -6,4 +6,4 @@ n3 = int(input("Digite sua nota 3: "))
 n4 = int(input("Digite sua nota 4: "))
 
 media = (n1 + n2 + n3 + n4) / 4
-print(f"Olá, Caique! Sua média é: {media} pontos")
+print(f"Olá, Clislania! Sua média é: {media} pontos")
